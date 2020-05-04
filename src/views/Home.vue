@@ -28,7 +28,7 @@ export default {
           classes: ["fab", "linkedin"],
           color: "white",
           label: "LinkedIn",
-          href: "https://github.com/BioRazor"
+          href: "https://www.linkedin.com/in/biorazor/"
         },
         {
           classes: ["fab", "twitter"],
